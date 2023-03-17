@@ -1,0 +1,9 @@
+.hero__text {
+    color: white;
+    font-size: 16px;
+    font-weight: normal;
+    width: 450px;
+    line-height: 28px;
+    margin: 0 0 40px 0;
+    border-radius: 61%;
+}

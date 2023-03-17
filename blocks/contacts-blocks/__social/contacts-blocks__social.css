@@ -1,0 +1,7 @@
+.contacts-block__social {
+    width: 384px;
+    height: 462px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}

@@ -1,0 +1,9 @@
+.hero__avatar {
+    background-image: url(../../../images/Keanu.jpg);
+    width: 384px;
+    height: 384px;
+    background-size: cover;
+    background-position: center;
+    border: 11px solid white;
+    border-radius: 50%;
+}

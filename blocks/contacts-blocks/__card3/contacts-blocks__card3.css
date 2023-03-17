@@ -1,0 +1,8 @@
+.contacts-blocks__card3 {
+    grid-column: span 2;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    grid-column-gap: 54px;
+    grid-row-gap: 10px;
+}

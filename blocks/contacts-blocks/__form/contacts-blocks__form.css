@@ -1,0 +1,40 @@
+.contacts-blocks__form {
+    width: 464px;
+    height: 422px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: -5px 5px #FFC41D;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+input {
+    width: 400px;
+    height: 70px;
+    background-color: #F8F8F8;
+    box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+    border-radius: 5px;
+    font-family: inherit; 
+    outline: none;
+     }
+
+  input::placeholder {
+   padding-left: 64px;
+   color: #949494; 
+   font-size: 14px;
+   font-weight: normal;
+   }
+
+  input[type="text"]::placeholder {
+    background: url(../../../images/icon/user-icon.svg) no-repeat;
+    width: 16px;
+    height: 18px;
+    padding-left: 64px;
+    color: #949494;
+    font-size: 14px;
+    font-weight: normal;
+   
+}

@@ -1,0 +1,8 @@
+.portfolio-gallery__image {
+    width: 304px;
+    height: 304px;
+    border-radius: 6px;
+    object-fit: cover; 
+    
+}
+

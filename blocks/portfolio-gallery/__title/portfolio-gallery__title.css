@@ -1,0 +1,11 @@
+.portfolio-gallery__title {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 180px;
+    line-height: 28px;
+    position: absolute;
+    left: 30px;
+    top: 145px;
+    z-index: 2;
+}

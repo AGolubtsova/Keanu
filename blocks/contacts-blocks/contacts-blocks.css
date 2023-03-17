@@ -1,0 +1,7 @@
+.contacts-blocks {
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    gap: 96px;
+    align-content: center;
+}

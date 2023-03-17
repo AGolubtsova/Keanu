@@ -1,0 +1,5 @@
+.gallery-cards__image {
+    width: 224px;
+    height: 224px;
+    object-fit: cover; 
+}
