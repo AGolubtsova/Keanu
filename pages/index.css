@@ -6,7 +6,6 @@
 @import url(../blocks/social-link/social-link.css);
 @import url(../blocks/social-link/__item/social-link__item.css);
 @import url(../blocks/hero/hero.css);
-@import url(../blocks/hero/__about/hero__about.css);
 @import url(../blocks/hero/__avatar/hero__avatar.css);
 @import url(../blocks/hero/__subtitle/hero__subtitle.css);
 @import url(../blocks/hero/__title/hero__title.css);
@@ -31,8 +30,6 @@
 @import url(../blocks/contacts-blocks/contacts-blocks.css);
 @import url(../blocks/contacts-blocks/__form/contacts-blocks__form.css);
 @import url(../blocks/contacts-blocks/__title/contacts-blocks__title.css);
-@import url(../blocks/contacts-blocks/__text/contacts-blocks__text.css);
-@import url(../blocks/contacts-blocks/__tel/contacts-blocks__tel.css);
 @import url(../blocks/contacts-blocks/__button/contacts-blocks__button.css);
 @import url(../blocks/contacts-blocks/__social/contacts-blocks__social.css);
 @import url(../blocks/contacts-blocks/__conf/contacts-blocks__conf.css);
